@@ -1,0 +1,36 @@
+@media screen and (max-width: 992px) {
+    body {
+      background-color: blue;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    body {
+      background-color: olive;
+      width: 50%;
+    }
+
+    nav{
+        flex-wrap: nowrap;
+        flex-direction: column;
+    }
+
+    .classide{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .classide2{
+        display: flex;
+        flex-direction: column;
+        width: 50px;
+    }
+
+    section{
+        width: 50%;
+    }
+
+    .four{
+        margin: 200px;
+    }
+  }
