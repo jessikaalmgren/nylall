@@ -1,37 +1,94 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" media="mediatype and|not|only (expressions)" href="print.css">
 
-You can use the [editor on GitHub](https://github.com/jessikaalmgren/nylall/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+</head>
+<body>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<header>
+    <div class="wrapper">
+            <div class="item outer"><div class="rubrik">We've got you <br> Covered.</div>
+            <p>Together we keep each other safe at home or at work. By paying a tiny fee
+                a day, you are fully insured all day long. You get it all for as little as <p class="textvit">$0.4 per pay.</p></p></div>
+        
+        <div class="container">
+        <div class="item inner"><h1>Learn More</h1></div>
+        <div class="item inner2"><h1>Join Today</h1></div>
+    </div></div>
+    
+</header>
+    
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<nav>
 
-# Header 1
-## Header 2
-### Header 3
+    <div class="meny">
+    <ul>
+        <li><a href="default.asp">Home</a></li>
+                <li><a href="default.asp">Our offer</a></li>
+                <li><a href="default.asp">Why us</a></li>
+                <li><a href="contact.html">Contact</a></li>
 
-- Bulleted
-- List
+    </ul></div>
+</nav>
 
-1. Numbered
-2. List
+<main>
+    <div class="box">
+        <div class="box1"><h2>Your personal financial safety net online.</h2></div>
+        <div class="box2"><p class="info">Lorem ipsum sit amet, consectetur adipiscing elit. Ut tempor ligula
+            vel felis cursus egestas. Etiam consectectur finibus facilis. Proin accumsan auctor purus,
+            quis finibus tellus accumsan id. Quisque tellus  elit, ullamcorper sed mollis ac, interdum
+            vel enim. Pellentesque congue felis eget lorem tempor blandit. Mauris hendrerit  
+            ullamcorper ex quis congue donec vel finibus libero.</p></div></p>
 
-**Bold** and _Italic_ and `Code` text
+    </div>
+</main>
 
-[Link](url) and ![Image](src)
-```
+<div>
+    <div class="classide">
+        <div class="flex one"><h3>Children</h3><p class="children">Lorem ispum dolor sit amet,
+            consectetur  adipiscing elit. Ut tempor ligula vel felis cursus egestas. Etiam consectetur finibus 
+            facilisis. Proin accumsan auctor purus, quis finibus tellus accumsan id.</p></div>
+        <div class="flex two"><h3>Adult</h3></div>
+        <div class="flex three"><h3>Old fart</h3></div>
+    </div>
+    
+</div>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<div class="classide2">
+    <div class="class four"></div>
+    <div class="class five"></div>
+    <div class="class six"></div>
+</div>
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jessikaalmgren/nylall/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<aside>
+    <div class="flexboxes"></div>
+</aside>
 
-### Support or Contact
+<section>
+    <div class="flexhow">
+        <div class="ett"><div class="textinside"><h1>How <br> It works?</h1></div></div>
+        <div class="tva"><div class="numberflex">01</div><div class="workstext"><p>Answer a few questions <br> about your self</p></div></div>
+        <div class="tre"><div class="numberflex">02</div><div class="workstext"><p>Choose a plan. <br> Get a quote. </p></div></div>
+        <div class="fyra"><div class="numberflex">03</div><div class="workstext"><p>Answer some questions about<br> your medical history. </p></div></div>
+        <div class="fem"><div class="numberflex">04</div><div class="workstext"><p>Wait 90 sec to get approved.</p></div></div>
+        <div class="sex"><div class="numberflex">05</div><div class="workstext"><p>Done!</p></div></div>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    </div>
+</section>
+
+
+<footer>
+    <div class="down"></div>
+</footer>
+
+</div>
+</body>
+</html>
